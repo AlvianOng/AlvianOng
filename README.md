@@ -4,14 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer
 ---------
 
-Alvian is a Front-End Web Developer with a passion for creating user-friendly websites that meet customer needs. He is a full-time Developer with 2 years of experience in Software Development.
+Alvian is a Front-End Web Developer with a passion for creating user-friendly websites that meet customer needs. He is a full-time Developer with 2 years of experience in Software Development. Current Stack: Next.js, TypeScript, Apollo Client, TailwindCSS or Chakra UI
 
 * 🌍  I'm based in Medan, Indonesia
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/alvianonggo/)
 * ✉️  You can contact me at [alvian.onggo@gmail.com](mailto:alvian.onggo@gmail.com)
 * 🚀  I'm currently working on [Jova Resto](http://www.jovaresto.com/)
-* 🧠  I'm learning React Native & Typescript
+* 🧠  I'm learning React Native, Typescript, advanced form validation (react-hook-form + zod)
 * 🤝  I'm open to collaborating on interesting web-based projects as a freelance front-end developer
+* ⚡  Loves GraphQL over REST API. Enjoy refactoring own codes at night 👨‍💻
 
 ### Skills
 
