@@ -10,7 +10,7 @@ Alvian is a Front-End Web Developer with a passion for creating user-friendly we
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/alvianonggo/)
 * ✉️  You can contact me at [alvian.onggo@gmail.com](mailto:alvian.onggo@gmail.com)
 * 🚀  I'm currently working on [Jova Resto](http://www.jovaresto.com/)
-* 🧠  I'm learning React Native, Typescript, advanced form validation (react-hook-form + zod)
+* 🧠  I'm learning advanced Typescript, and Next.js 13 app directory
 * 🤝  I'm open to collaborating on interesting web-based projects as a freelance front-end developer
 * ⚡  Loves GraphQL over REST API. Enjoy refactoring own codes at night 👨‍💻
 
@@ -34,11 +34,3 @@ Alvian is a Front-End Web Developer with a passion for creating user-friendly we
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/AlvianOng" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/alvianonggo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/AlvianOng"><img src="https://github-readme-stats.vercel.app/api?username=AlvianOng&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AlvianOng's GitHub stats" /></a>
-
-<a href="http://www.github.com/AlvianOng"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=AlvianOng&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
