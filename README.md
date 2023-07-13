@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer
 ---------
 
-Alvian is a Front-End Web Developer with a passion for creating user-friendly websites that meet customer needs. He is a full-time Developer with 2 years of experience in Software Development. Current Stack: Next.js, TypeScript, Apollo Client, TailwindCSS or Chakra UI
+Alvian is a Front-End Web Developer with a passion for creating user-friendly websites that meet customer needs. He is a full-time Developer with 2 years of experience in Software Development. Current Stack: Next.js, TypeScript, Apollo Client, TailwindCSS, react-hook-form, zod.
 
 * 🌍  I'm based in Medan, Indonesia
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/alvianonggo/)
